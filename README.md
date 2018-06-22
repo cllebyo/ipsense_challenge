@@ -10,13 +10,13 @@
 
 # Execução
 
-- A ideia para testar localmente é apenas executar $ docker-compose up
+- A ideia para testar localmente é apenas executar 'docker-compose up'
 - Acessar url localhost:8080
 
 
 # Avaliação
 
-- Contará pontos a qualidade do $ Dockerfile , $ docker-compose.yml
+- Contará pontos a qualidade do 'Dockerfile' , 'docker-compose.yml'
 - Pontos extras caso utilize terraform e esteja dentro de boas praticas
 -  Pontos extras caso use ansible e esteja bem estruturado
 
