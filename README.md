@@ -6,7 +6,7 @@
 
 - Existe um diretório api e outro web, você deve dockerizar a aplicação da melhor forma possivel.
 
-- Escreva uma receita com a ferramenta de sua preferência (ansible ou terrafor) para constuir o ambiente e rodar a aplicação de forma automatizada.
+- Escreva uma receita com a ferramenta de sua preferência (ansible ou terraform) para construir o ambiente e rodar a aplicação de forma automatizada.
 
 # Execução
 
